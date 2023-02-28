@@ -15,7 +15,7 @@ Mi objetivo es poder crear aplicaciones, paginas web o/y juegos.
 Me encanta el mundo de programacion, si una pagina no me gusta, la puedo diseñar yo, si una aplicacion me parece lenta o mala, puedo crear una mejor funcional, juegos como cuando era chico que hoy en dia se ven poco.
 
 ## ¿Que tecnologias uso?
-En el bootcamp de **SoyHenry** me ayudo a reforsar mi conocimiento (autodidacta) con experiencia en diferentes proyectos. 
+En el bootcamp de **SoyHenry**, pude poner en prueba y reforsar mis conocimientos (autodidacta) con experiencias en diferentes proyectos. 
 Las prinsipales tecnologias que manejo son:
 
 - JavaScript
