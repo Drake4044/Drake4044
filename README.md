@@ -4,7 +4,7 @@ Conocido como Drake4044 en github
 ## ¿Quien soy?
 Soy programador web Full Stack graduado de **SoyHenry** orientado al Front-end y creacion de contenido visual.
 
-Desde hace 3 años que estudio por mi cuenta el mundo de la programacion, Mi primer lenguaje fue **Javascript**, con mi primer proyecto, un juego de piedra, papel o tijera, el crear una app funcional, me hizo comprender que me encanta programas.
+Desde hace 3 años que estudio por mi cuenta el mundo de la programacion, Mi primer lenguaje fue **Javascript**, con mi primer proyecto, un juego de piedra, papel o tijera, el crear una app funcional, me hizo comprender que me encanta programar.
 
 ## ¿Que hago?
 Actualmente me dedico a estudiar nuevas tecnologias y proyectos que me permitan avanzar con mi formacion como programador.
