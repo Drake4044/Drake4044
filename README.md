@@ -1,4 +1,4 @@
-# Hola! Soy Martin Castro
+# HOLA! SOY MARTIN CASTRO
 Conocido como Drake4044 en github
 
 ## ¿Quien soy?
