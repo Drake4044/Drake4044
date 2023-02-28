@@ -2,21 +2,21 @@
 Conocido como Drake4044 en Github
 
 ## ¿Quien soy?
-Soy programador web Full Stack graduado de **SoyHenry** orientado al Front-end y creacion de contenido visual.
+Soy programador web Full Stack graduado de **SoyHenry** orientado al Front-end y creación de contenido visual.
 
-Desde hace 3 años que estudio por mi cuenta el mundo de la programacion, Mi primer lenguaje fue **Javascript**, con mi primer proyecto, un juego de piedra, papel o tijera, el crear una app funcional, me hizo comprender que me encanta programar.
+Desde hace 3 años que estudio por mi cuenta el mundo de la programación, Mi primer lenguaje fue **Javascript**, con mi primer proyecto, un juego de piedra, papel o tijera, el crear una app funcional, me hizo comprender que me encanta programar.
 
 ## ¿Que hago?
-Actualmente me dedico a estudiar nuevas tecnologias como React Native y Typescript,con proyectos que me permitan avanzar en mi formacion como programador.
+Actualmente me dedico a estudiar nuevas tecnologías como React Native y Typescript, con proyectos que me permitan avanzar en mi formación como programador.
 
 ## ¿A donde me dirijo?
-Mi objetivo es poder crear aplicaciones, paginas web o/y juegos. 
+Mi objetivo es poder crear aplicaciones, páginas web o/y juegos. 
 
-Me encanta el mundo de programacion, si una pagina no me gusta, la puedo diseñar yo, si una aplicacion me parece lenta o mala, puedo crear una mejor funcional, juegos como cuando era chico que hoy en dia se ven poco.
+Me encanta el mundo de programación, si una página no me gusta, la puedo diseñar yo, si una aplicacion me parece lenta o mala, puedo crear una mejor función, juegos como cuando era chico que hoy en día se ven poco.
 
-## ¿Que tecnologias uso?
-En el bootcamp de **SoyHenry**, pude poner en prueba y reforzar mis conocimientos (autodidacta) con experiencias en diferentes proyectos. 
-Las prinscipales tecnologias que manejo son:
+## ¿Que tecnologías uso?
+En el bootcamp de **SoyHenry**, pude poner a prueba y reforzar mis conocimientos (autodidacta) con experiencias en diferentes proyectos. 
+Las principales tecnologías que manejo son:
 
 - JavaScript
 - React.js
