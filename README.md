@@ -12,7 +12,7 @@ Actualmente me dedico a estudiar nuevas tecnologías como React Native y Typescr
 ## ¿A donde me dirijo?
 Mi objetivo es poder crear aplicaciones, páginas web o/y juegos. 
 
-Me encanta el mundo de programación, si una página no me gusta, la puedo diseñar yo, si una aplicacion me parece lenta o mala, puedo crear una mejor función, juegos como cuando era chico que hoy en día se ven poco.
+Me encanta el mundo de programación, si una página no me gusta, la puedo diseñar yo, si una aplicacion me parece lenta o mala, puedo crear una mejor función, como tambien juegos, como los que había cuando era chico, que hoy en día se ven poco.
 
 ## ¿Que tecnologías uso?
 En el bootcamp de **SoyHenry**, pude poner a prueba y reforzar mis conocimientos (autodidacta) con experiencias en diferentes proyectos. 
